@@ -1,4 +1,3 @@
-//Diego Alejandro Balejo Cardozo Rey - 495908 - Trabalho 03
 #include <iostream>
 #include <sstream>
 #include <fstream>
